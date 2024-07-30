@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🤫 Being Sigma 🤫", "🪩 Moderating Server 🪩", "😏 Being Your Daddy 😏", "🛡 Protecting Server 🛡"];
+const statusMessages = ["🤫 Being Sigma 🤫", "🪩 Moderating Server 🪩", "😏 Being Your Daddy 😏", "🛡 Protecting Server 🛡", "😫 Moaning Extremely Loud 😫"];
 
 
 let currentIndex = 0;
